@@ -1,0 +1,164 @@
+[
+    {
+        "id": "juguete-01",
+        "titulo": "Juguete 01",
+        "imagen": "./assets/img/juguete1.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "juguete-02",
+        "titulo": "Juguete 02",
+        "imagen": "./assets/img/juguete2.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "juguete-03",
+        "titulo": "Juguete 03",
+        "imagen": "./assets/img/juguete3.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "juguete-04",
+        "titulo": "Juguete 04",
+        "imagen": "./assets/img/juguete4.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "juguete-05",
+        "titulo": "Juguete 05",
+        "imagen": "./assets/img/juguete5.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 20000
+    },
+  
+    {
+        "id": "correa-01",
+        "titulo": "Correa 01",
+        "imagen": "./assets/img/correa1.jpg",
+        "categoria": {
+            "nombre": "Traillas y Correas",
+            "id": "correas"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "correa-02",
+        "titulo": "Correa 02",
+        "imagen": "./assets/img/correa2.jpg",
+        "categoria": {
+            "nombre": "Traillas y Correas",
+            "id": "correas"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "correa-03",
+        "titulo": "Correa 03",
+        "imagen": "./assets/img/correa3.jpg",
+        "categoria": {
+            "nombre": "Traillas y Correas",
+            "id": "correas"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "correa-04",
+        "titulo": "Correa 04",
+        "imagen": "./assets/img/correa4.jpg",
+        "categoria": {
+            "nombre": "Traillas y Correas",
+            "id": "correas"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "correa-05",
+        "titulo": "Correa 05",
+        "imagen": "./assets/img/correa5.jpg",
+        "categoria": {
+            "nombre": "Traillas y Correas",
+            "id": "correas"
+        },
+        "precio": 20000
+    },
+   
+    {
+        "id": "cama-01",
+        "titulo": "Cama 01",
+        "imagen": "./assets/img/cama1.jpg",
+        "categoria": {
+            "nombre": "Camas y Guacales",
+            "id": "camas"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "cama-02",
+        "titulo": "Cama 02",
+        "imagen": "./assets/img/cama2.jpg",
+        "categoria": {
+            "nombre": "Camas y Guacales",
+            "id": "camas"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "cama-03",
+        "titulo": "Cama 03",
+        "imagen": "./assets/img/cama3.jpg",
+        "categoria": {
+            "nombre": "Camas y Guacales",
+            "id": "camas"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "cama-04",
+        "titulo": "Cama 04",
+        "imagen": "./assets/img/cama4.jpg",
+        "categoria": {
+            "nombre": "Camas y Guacales",
+            "id": "camas"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "cama-05",
+        "titulo": "Guacal 05",
+        "imagen": "./assets/img/cama5.jpg",
+        "categoria": {
+            "nombre": "Camas y Guacales",
+            "id": "camas"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "cama-06",
+        "titulo": "Guacal 06",
+        "imagen": "./assets/img/cama6.jpg",
+        "categoria": {
+            "nombre": "Camas y Guacales",
+            "id": "camas"
+        },
+        "precio": 20000
+    }
+]
